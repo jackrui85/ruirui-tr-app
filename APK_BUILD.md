@@ -1,6 +1,6 @@
 # 瑞瑞作品 APK 建置說明
 
-本專案是 Expo SDK 54 原生手機 App，已在 `eas.json` 設定 `preview` profile 產出可直接安裝的 Android APK。
+本專案是 Expo SDK 57 原生手機 App，已在 `eas.json` 設定 `preview` profile 產出可直接安裝的 Android APK。
 
 ## 建置 APK
 
